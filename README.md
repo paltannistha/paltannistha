@@ -2,7 +2,7 @@
 For great readme profiles on github!
 -->
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-## Hello World <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
+## Hi There <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
 
 <!--
 That was just the Hi there gif. Just an animation.
@@ -16,9 +16,9 @@ just replace the username param to your github username.
 For more info and customization, read, https://github.com/anuraghazra/github-readme-stats
 -->
 
-* This is Farhan Hai Khan. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
-* I am a 3rd year undergraduate under the department of Electrical Engineering in Institute of Engineering & Managemnet, Kolkata.
-* I am also developing my personaized Github Pages Jekyll Website : [khanfarhan10.github.io/](https://khanfarhan10.github.io/)
+* This is Tannistha Pal. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
+* I am a 3rd year undergraduate under the department of Electronics and Communications Engineering in Institute of Engineering & Managemnet, Kolkata.
+* I am also developing my personaized Github Pages HTML5 Website : [Visit my website here](https://paltannistha.github.io/).
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=khanfarhan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
