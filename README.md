@@ -23,7 +23,7 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 * I am also developing my personaized Github Pages HTML5 Website : [Visit my website here](https://paltannistha.github.io/).
 
 ***
-<img src="https://github-readme-stats.vercel.app/api?username=khanfarhan10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanfarhan10&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=paltannistha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=tokyonight">
 
 <!--
 The number of github profile or any other repo view.
