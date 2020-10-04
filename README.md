@@ -42,7 +42,7 @@ Then paste the links along with the alt text. (optional)
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Google Colaboratory" width="26px" src="https://miro.medium.com/max/250/1*i_ncmAcN81MRMNRDcenKiw.png" />
-<img align="left" alt="Kagle Notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/300px-Kaggle_logo.png" />
+<img align="left" alt="Kaggle Notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/300px-Kaggle_logo.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -75,22 +75,19 @@ Then paste the links along with the alt text. (optional)
 
 ***
 
--  🔭 I’m currently working on projects related to Software Automation, Computer Vision & Deep Learning.
+-  🔭 I’m currently working on projects related to Machine Learning, Computer Vision, Deep Learning and Data Analytics.
 
--  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/khanfarhan10?tab=repositories). You can also get to [know me](https://khanfarhan10.github.io/aboutme/).
-
+-  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/paltannistha?tab=repositories). 
 -  👯 I’m looking forward to collaborate on projects for better software and contributing towards Open Source.
 
 -  💬 Ask me about Python, Jupyter Notebooks, Google Colab, Neural Networks, OOPS and Data Structures.
 
--  😄 Pronouns: He/His
+-  😄 Pronouns: She/Her
 
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40kfpro-green)](https://www.linkedin.com/in/kfpro)
-[![Twitter](https://img.shields.io/badge/Twitter-%40itsmetheswagger-red)](https://twitter.com/itsmetheswagger)
-[![Instagram](https://img.shields.io/badge/Instagram-%40i.am.the.swagger_-yellow.svg)](https://www.instagram.com/i.am.the.swagger/)
+[![Facebook](https://img.shields.io/badge/Facebook-%40paltannistha-red)](https://www.facebook.com/walkers.fan)
 ***
 <!--
 Links with Badges.
