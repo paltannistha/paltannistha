@@ -5,13 +5,12 @@ For great readme profiles on github!
 <div align="center">
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 />  
 </div>
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 />  
 
 <!--
 That was just the hello world gif. Just an animation.
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfarhan10&label=Profile+Views&color=green&style=plastic%22%20alt=%22khanfarhan10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paltannistha&label=Profile+Views&color=green&style=plastic%22%20alt=%22paltannistha" /> </p>
 
 <!--
 Personalized GitHub Stats Card
