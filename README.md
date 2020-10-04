@@ -2,10 +2,10 @@
 For great readme profiles on github!
 -->
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=40 height=40 align="center" />  
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=100 height=100 style="vertical-align:middle"/>  
 
 <!--
-That was just the Hi there gif. Just an animation.
+That was just the hello world gif. Just an animation.
 -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanfarhan10&label=Profile+Views&color=green&style=plastic%22%20alt=%22khanfarhan10" /> </p>
