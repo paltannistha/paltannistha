@@ -2,7 +2,10 @@
 For great readme profiles on github!
 -->
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 style="vertical-align:middle"/>  
+<div align="center">
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 />  
+</div>
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=200 height=200 />  
 
 <!--
 That was just the hello world gif. Just an animation.
