@@ -2,7 +2,7 @@
 For great readme profiles on github!
 -->
 <!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-## Hi There <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" width=40 height=40 />  
+<img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width=40 height=40 align="center" />  
 
 <!--
 That was just the Hi there gif. Just an animation.
