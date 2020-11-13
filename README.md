@@ -20,7 +20,7 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 
 * This is Tannistha Pal. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
 * I am a 3rd year undergraduate under the department of Electronics and Communications Engineering in Institute of Engineering & Managemnet, Kolkata.
-* I am also developing my personaized Github Pages HTML5 Website : [Visit my website here](https://paltannistha.github.io/).
+
 
 ***
 <img src="https://github-readme-stats.vercel.app/api?username=paltannistha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=cobalt">
