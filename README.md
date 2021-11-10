@@ -96,7 +96,17 @@ Then paste the links along with the alt text. (optional)
 ![connect-with-me.png](./images/connect-with-me.png)
 
 [![LinkedIn](https://img.shields.io/badge/-paltannistha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paltannistha/)
+
+
+
+
+
 [![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)
+
+
+
+
+
 [![Gmail](https://img.shields.io/badge/-Tannistha_Pal-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:paltannistha@gmail.com)
 ***
 <!--
