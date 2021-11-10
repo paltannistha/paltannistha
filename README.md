@@ -30,8 +30,9 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 * I am a 4th year undergraduate under the department of Electronics and Communications Engineering in [Institute of Engineering & Managemnet, Kolkata](https://iem.edu.in/).
 
 
-***
-<img src="https://github-readme-stats.vercel.app/api?username=paltannistha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=cobalt">
+**⚙️ &nbsp;GitHub Analytics**
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=paltannistha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=cobalt"></p>
 
 <!--
 The number of github profile or any other repo view.
@@ -96,17 +97,7 @@ Then paste the links along with the alt text. (optional)
 ![connect-with-me.png](./images/connect-with-me.png)
 
 [![LinkedIn](https://img.shields.io/badge/-paltannistha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paltannistha/)
-
-
-
-
-
 [![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)
-
-
-
-
-
 [![Gmail](https://img.shields.io/badge/-Tannistha_Pal-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:paltannistha@gmail.com)
 ***
 <!--
