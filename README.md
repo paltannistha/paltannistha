@@ -19,7 +19,7 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 -->
 
 * This is Tannistha Pal. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
-* I am a 3rd year undergraduate under the department of Electronics and Communications Engineering in Institute of Engineering & Managemnet, Kolkata.
+* I am a 3rd year undergraduate under the department of Electronics and Communications Engineering in [Institute of Engineering & Managemnet, Kolkata](https://iem.edu.in/).
 
 
 ***
@@ -87,7 +87,9 @@ Then paste the links along with the alt text. (optional)
 -  ⚡ Fun fact: I feel my repositories are the only trustworthy place to **commit**. You getting it? 😂
 
 -  📫 How to reach me:
-[![Facebook](https://img.shields.io/badge/Facebook-%40paltannistha-red)](https://www.facebook.com/walkers.fan)
+[![LinkedIn](https://img.shields.io/badge/-paltannistha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paltannistha/)
+[![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)
+[![Gmail](https://img.shields.io/badge/-Tannistha_Pal-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:paltannistha@gmail.com)
 ***
 <!--
 Links with Badges.
