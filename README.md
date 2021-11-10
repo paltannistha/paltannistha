@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Tannistha;+An+Open+Source+Enthusiast+☀;Machine+Learning+Enthusiast+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Tannistha;Machine+Learning+Enthusiast+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -18,7 +18,7 @@
 
 <!-- ----------- HEAD SECTION END ------------ -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paltannistha&label=Profile+Views&color=green&style=plastic%22%20alt=%22paltannistha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paltannistha&label=Profile+Views&color=green&style=plastic%22%20alt=%22paltannistha" /> </p>
 
 <!--
 Personalized GitHub Stats Card
