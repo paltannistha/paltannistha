@@ -30,9 +30,6 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 * I am a 4th year undergraduate under the department of Electronics and Communications Engineering in [Institute of Engineering & Managemnet, Kolkata](https://iem.edu.in/).
 
 
-**⚙️ &nbsp;GitHub Analytics**
-<p align = "center">
-<img src="https://github-readme-stats.vercel.app/api?username=paltannistha&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&layout=compact&theme=cobalt"></p>
 
 <!--
 The number of github profile or any other repo view.
@@ -51,7 +48,7 @@ Then paste the links along with the alt text. (optional)
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Jupyter Notebooks" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Google Colaboratory" width="26px" src="https://miro.medium.com/max/250/1*i_ncmAcN81MRMNRDcenKiw.png" />
-<img align="left" alt="Kaggle Notebooks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Kaggle_logo.png/300px-Kaggle_logo.png" />
+
 <img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
 <img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -62,15 +59,9 @@ Then paste the links along with the alt text. (optional)
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Atom" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="Jekyll" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jekyll/jekyll.png" />
-<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
 
-<img align="left" alt="LaTeX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
+
 <img align="left" alt="MarkDown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
 <img align="left" alt="Scikit-Learn" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -97,7 +88,6 @@ Then paste the links along with the alt text. (optional)
 ![connect-with-me.png](./images/connect-with-me.png)
 
 [![LinkedIn](https://img.shields.io/badge/-paltannistha-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paltannistha/)
-[![Instagram](https://img.shields.io/badge/-pal_tannistha-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/pal_tannistha/?hl=en)
 [![Gmail](https://img.shields.io/badge/-Tannistha_Pal-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:paltannistha@gmail.com)
 ***
 <!--
