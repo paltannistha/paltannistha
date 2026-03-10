@@ -75,7 +75,7 @@ Then paste the links along with the alt text. (optional)
 
 ***
 
--  🔭 I’m currently working on projects related to Machine Learning, Computer Vision, Deep Learning and Data Analytics.
+-  🔭 I’m a Software Developer at IBM ISDL, passionate about ML/DL/AI, worked on projects related to Machine Learning, Computer Vision, Deep Learning and Data Analytics.
 
 -  🌱 I’m currently learning how to deploy Software Projects using Flask/Flutter and their custom implementation in the development of Web/Mobile Applications.I have engaged myself in projects in the domain of Artificial Intelligence and Machine Learning. You can find my work [in these repos](https://github.com/paltannistha?tab=repositories). 
 -  👯 I’m looking forward to collaborate on projects for better software and contributing towards Open Source.
