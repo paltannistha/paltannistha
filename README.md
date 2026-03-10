@@ -27,7 +27,7 @@ For more info and customization, read, https://github.com/anuraghazra/github-rea
 -->
 
 * This is Tannistha Pal. I work on Machine Learning Projects, and am interested in Data Science & Artificial Intelligence. I also build repositories with automation/competititive coding/utility problems solved over different domains using Python.
-* I am a 4th year undergraduate under the department of Electronics and Communications Engineering in [Institute of Engineering & Managemnet, Kolkata](https://iem.edu.in/).
+* I am a Software Develoepr at IBM ISDL.
 
 
 
