@@ -72,6 +72,14 @@ I enjoy exploring different domains and continuously improving my skills by buil
 
 ---
 
+**⚙️ &nbsp;GitHub Analytics**
+<p align = "center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=paltannistha&show_icons=true&theme=dark&locale=en&hide_border=true" alt="paltannistha" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paltannistha&theme=dark&hide_border=true&layout=compact">
+</p>
+
+---
+
 ## 🤝 Open Source Collaboration
 
 I’m always excited to collaborate on:
